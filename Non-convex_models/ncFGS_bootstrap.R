@@ -2,7 +2,6 @@ rm(list=ls())
 library("Matrix",lib.loc="")# pass path to the library
 library("methods",lib.loc="")# pass path to the library
 library("lattice",lib.loc="")# pass path to the library
-library("spams",lib.loc="")# pass path to the library
 library("pROC",lib.loc="")# pass path to the library
 library("Metrics",lib.loc="")# pass path to the library
 library("boot",lib.loc="")# pass path to the library
