@@ -2,9 +2,10 @@ This is code for ICDM 2016 paper titled, "Feature Grouping using Weighted L1 Nor
 
 Following are the packages required and installation commands to run the baseline and proposed model:
 
-# required packages FGSG, SLOPE
+/# required packages FGSG, SLOPE
 
-# installation commands
+/# installation commands
 
 install.packages('FGSG',lib='#path to the package files storage')
+
 install.packages('SLOPE',lib='#path to the package files storage')
